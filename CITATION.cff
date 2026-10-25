@@ -1,6 +1,10 @@
 cff-version: 1.2.0
 type: software
-message: "Please cite this code repository and its archived release when available."
+version: 1.0.0
+doi: 10.5281/zenodo.23642715
+date-released: 2026-10-25
+url: "https://github.com/wuwei0304/china-sam-2023-code"
+message: "Please cite the archived software version using the DOI below."
 title: "Code for a 2023 social accounting matrix for China with income-decile households and financial accounts"
 license: MIT
 authors:

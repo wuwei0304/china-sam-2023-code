@@ -22,5 +22,7 @@
   "license": "mit",
   "access_right": "open",
   "language": "eng",
-  "notes": "Software-only metadata for a future archived code release. No DOI or public release is claimed. Original inputs and CFPS-derived outputs are governed separately by provider terms and approved deposit arrangements."
+  "notes": "Software version 1.0.0 is archived at https://doi.org/10.5281/zenodo.23642715, preserving GitHub commit 245a17a707061151f41652efc329aa7cfa2e4d9e. The DOI covers software only. Original inputs and CFPS-derived data outputs remain governed separately by provider terms and approved deposit arrangements.",
+  "version": "1.0.0",
+  "publication_date": "2026-10-25"
 }

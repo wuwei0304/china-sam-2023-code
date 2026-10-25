@@ -53,8 +53,10 @@ Original provider workbooks, survey microdata, internal decile workbooks and gen
 are excluded from this code repository. The licence is MIT for the software and project-authored
 documentation; it does not grant rights to third-party inputs or CFPS-derived data products.
 
-A future fixed code release may be archived on Zenodo to obtain a DOI. `.zenodo.json` describes
-software only, and `CITATION.cff` contains code citation metadata without an invented DOI or release date.
+Version 1.0.0 is archived on Zenodo: [10.5281/zenodo.23642715](https://doi.org/10.5281/zenodo.23642715).
+It preserves the 24-file snapshot at commit `245a17a707061151f41652efc329aa7cfa2e4d9e`.
+The DOI identifies software, concordances and documentation; the archive contains no generated
+SAM or CFPS-derived group output. `CITATION.cff` provides citation metadata for this fixed version.
 
 ## Contributing
 

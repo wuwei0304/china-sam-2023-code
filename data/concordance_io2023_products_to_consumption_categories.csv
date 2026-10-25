@@ -1,0 +1,212 @@
+﻿product_code,product_name_zh,section,category_zh,category_en,kind,note_zh
+01001,谷物,A,食品烟酒,"Food, tobacco and liquor",goods,
+01002,其他农产品,A,食品烟酒,"Food, tobacco and liquor",goods,其他农产品含棉麻，居民消费以菜果为主
+02003,林产品,A,食品烟酒,"Food, tobacco and liquor",goods,林产品里木材和食品混在一起，居民消费按食品处理
+03004,家禽,A,食品烟酒,"Food, tobacco and liquor",goods,
+03005,牲畜和其他畜牧产品,A,食品烟酒,"Food, tobacco and liquor",goods,
+04006,水产养殖产品,A,食品烟酒,"Food, tobacco and liquor",goods,
+04007,水产捕捞产品,A,食品烟酒,"Food, tobacco and liquor",goods,
+05008,农、林、牧、渔服务产品,A,无居民消费,No household consumption,none,
+06009,煤炭开采和洗选产品,B,居住,Housing,goods,居民购煤，归入居住中的水电燃料
+07010,石油开采产品,B,无居民消费,No household consumption,none,
+07011,天然气开采产品,B,无居民消费,No household consumption,none,
+08012,黑色金属矿采选产品,B,无居民消费,No household consumption,none,
+09013,有色金属矿采选产品,B,无居民消费,No household consumption,none,
+10014,土砂石开采产品,B,无居民消费,No household consumption,none,
+10015,其他非金属矿采选产品,B,无居民消费,No household consumption,none,
+11016,开采辅助活动和其他采矿产品,B,无居民消费,No household consumption,none,
+13017,谷物磨制品,C,食品烟酒,"Food, tobacco and liquor",goods,
+13018,饲料加工品,C,其他用品及服务,Other goods and services,goods,饲料不是居民食品，金额小，放入其他
+13019,植物油加工品,C,食品烟酒,"Food, tobacco and liquor",goods,
+13020,糖及糖制品,C,食品烟酒,"Food, tobacco and liquor",goods,
+13021,屠宰及肉类加工品,C,食品烟酒,"Food, tobacco and liquor",goods,
+13022,水产加工品,C,食品烟酒,"Food, tobacco and liquor",goods,
+13023,蔬菜、菌类、水果和坚果加工品,C,食品烟酒,"Food, tobacco and liquor",goods,
+13024,其他农副食品加工品,C,食品烟酒,"Food, tobacco and liquor",goods,
+14025,方便食品,C,食品烟酒,"Food, tobacco and liquor",goods,
+14026,乳制品,C,食品烟酒,"Food, tobacco and liquor",goods,
+14027,调味品、发酵制品,C,食品烟酒,"Food, tobacco and liquor",goods,
+14028,其他食品,C,食品烟酒,"Food, tobacco and liquor",goods,
+15029,酒精和酒,C,食品烟酒,"Food, tobacco and liquor",goods,
+15030,饮料,C,食品烟酒,"Food, tobacco and liquor",goods,
+15031,精制茶,C,食品烟酒,"Food, tobacco and liquor",goods,
+16032,烟草制品,C,食品烟酒,"Food, tobacco and liquor",goods,
+17033,棉纺织及印染精加工品,C,衣着,Clothing,goods,
+17034,毛纺织及染整精加工品,C,衣着,Clothing,goods,
+17035,麻、丝绢纺织及加工品,C,衣着,Clothing,goods,
+17036,化纤织造及印染精加工品,C,衣着,Clothing,goods,
+17037,针织或钩针编织及其制品,C,衣着,Clothing,goods,
+17038,家用纺织制成品,C,生活用品及服务,Household articles and services,goods,
+17039,产业用纺织制成品,C,其他用品及服务,Other goods and services,goods,产业用纺织品，居民消费金额小
+18040,机织服装,C,衣着,Clothing,goods,
+18041,针织或钩针编织服装,C,衣着,Clothing,goods,
+18042,服饰,C,衣着,Clothing,goods,
+19043,皮革、毛皮、羽毛及其制品,C,衣着,Clothing,goods,皮革毛皮制品里衣着和鞋占居民消费的主要部分
+19044,鞋,C,衣着,Clothing,goods,
+20045,木材加工品,C,生活用品及服务,Household articles and services,goods,
+20046,人造板制品,C,生活用品及服务,Household articles and services,goods,
+20047,木质制品和竹、藤、棕、草制品,C,生活用品及服务,Household articles and services,goods,
+21048,家具,C,生活用品及服务,Household articles and services,goods,
+22049,纸浆和造纸,C,生活用品及服务,Household articles and services,goods,
+22050,纸制品,C,生活用品及服务,Household articles and services,goods,
+23051,印刷和记录媒介复制品,C,文教娱乐,"Education, culture and recreation",goods,
+24052,工艺美术品,C,文教娱乐,"Education, culture and recreation",goods,工艺美术品；金银珠宝若单列应归入其他，这里无法拆
+24053,文教、体育和娱乐用品,C,文教娱乐,"Education, culture and recreation",goods,
+25054,精炼石油和核燃料加工品,C,交通通信,Transport and communication,goods,居民购买的成品油主要是交通燃料，取暖用油未拆出
+25055,煤炭加工品,C,居住,Housing,goods,居民用煤制品，归入水电燃料
+26056,基础化学原料,C,无居民消费,No household consumption,none,
+26057,肥料,C,其他用品及服务,Other goods and services,goods,肥料不是居民消费分类中的项目，金额小
+26058,农药,C,其他用品及服务,Other goods and services,goods,农药不是居民消费分类中的项目，金额小
+26059,涂料、油墨、颜料及类似产品,C,居住,Housing,goods,涂料用于住房维修，金额小
+26060,合成材料,C,无居民消费,No household consumption,none,
+26061,专用化学产品和炸药、火工、焰火产品,C,其他用品及服务,Other goods and services,goods,专用化学产品，居民消费金额小
+26062,日用化学产品,C,生活用品及服务,Household articles and services,goods,
+27063,化学药品原料药,C,无居民消费,No household consumption,none,
+27064,化学药品制剂,C,医疗保健,Health care,goods,
+27065,中药饮片及中成药,C,医疗保健,Health care,goods,
+27066,其他医药制品,C,医疗保健,Health care,goods,
+28067,化学纤维制品,C,无居民消费,No household consumption,none,
+29068,轮胎,C,交通通信,Transport and communication,goods,
+29069,其他橡胶制品,C,生活用品及服务,Household articles and services,goods,
+29070,塑料薄膜,C,无居民消费,No household consumption,none,
+29071,日用塑料制品,C,生活用品及服务,Household articles and services,goods,
+29072,其他塑料制品,C,无居民消费,No household consumption,none,
+30073,水泥、石灰和石膏,C,居住,Housing,goods,住房维修材料，金额小
+30074,石膏、水泥制品及类似制品,C,居住,Housing,goods,住房维修材料，金额小
+30075,砖瓦、石材等建筑材料,C,居住,Housing,goods,住房维修材料，金额小
+30076,玻璃,C,无居民消费,No household consumption,none,
+30077,玻璃制品,C,生活用品及服务,Household articles and services,goods,
+30078,建筑、卫生陶瓷制品,C,无居民消费,No household consumption,none,
+30079,其他陶瓷制品,C,生活用品及服务,Household articles and services,goods,
+30080,耐火材料制品,C,无居民消费,No household consumption,none,
+30081,石墨及其他非金属矿物制品,C,无居民消费,No household consumption,none,
+31082,铁,C,无居民消费,No household consumption,none,
+31083,钢,C,无居民消费,No household consumption,none,
+31084,钢压延产品,C,无居民消费,No household consumption,none,
+31085,铁合金,C,无居民消费,No household consumption,none,
+32086,常用有色金属,C,无居民消费,No household consumption,none,
+32087,贵金属和稀有金属,C,无居民消费,No household consumption,none,
+32088,有色金属合金,C,无居民消费,No household consumption,none,
+32089,铜压延加工品,C,无居民消费,No household consumption,none,
+32090,铝压延加工品,C,无居民消费,No household consumption,none,
+32091,其他有色金属压延加工品,C,无居民消费,No household consumption,none,
+33092,结构性金属制品,C,无居民消费,No household consumption,none,
+33093,金属工具、金属丝绳及其制品,C,生活用品及服务,Household articles and services,goods,
+33094,集装箱及金属包装容器,C,无居民消费,No household consumption,none,
+33095,建筑、安全用金属制品,C,无居民消费,No household consumption,none,
+33096,金属制日用品,C,生活用品及服务,Household articles and services,goods,
+33097,金属处理、搪瓷制品、铸造及其他金属制品,C,生活用品及服务,Household articles and services,goods,
+34098,锅炉及原动设备,C,无居民消费,No household consumption,none,
+34099,金属加工机械,C,无居民消费,No household consumption,none,
+34100,物料搬运设备,C,无居民消费,No household consumption,none,
+34101,泵、阀门、压缩机及类似机械,C,无居民消费,No household consumption,none,
+34102,轴承、齿轮和传动部件,C,无居民消费,No household consumption,none,
+34103,烘炉、风机、包装等设备,C,无居民消费,No household consumption,none,
+34104,文化、办公用机械,C,文教娱乐,"Education, culture and recreation",goods,
+34105,通用零部件,C,其他用品及服务,Other goods and services,goods,
+34106,其他通用设备,C,无居民消费,No household consumption,none,
+35107,采矿、冶金、建筑专用设备,C,无居民消费,No household consumption,none,
+35108,化工、木材、非金属加工专用设备,C,无居民消费,No household consumption,none,
+35109,电子和电工机械专用设备,C,无居民消费,No household consumption,none,
+35110,农、林、牧、渔专用机械,C,无居民消费,No household consumption,none,
+35111,医疗仪器设备及器械,C,医疗保健,Health care,goods,
+35112,其他专用设备,C,无居民消费,No household consumption,none,
+36113,汽柴油车整车,C,交通通信,Transport and communication,goods,
+36114,新能源车整车,C,交通通信,Transport and communication,goods,
+36115,汽车用发动机、车身、挂车和其他汽车,C,交通通信,Transport and communication,goods,
+36116,汽车零部件及配件,C,交通通信,Transport and communication,goods,
+37117,铁路运输和城市轨道交通设备,C,无居民消费,No household consumption,none,
+37118,船舶及相关装置,C,交通通信,Transport and communication,goods,
+37119,其他交通运输设备,C,交通通信,Transport and communication,goods,
+38120,电机,C,无居民消费,No household consumption,none,
+38121,输配电及控制设备,C,无居民消费,No household consumption,none,
+38122,电线、电缆、光缆及电工器材,C,无居民消费,No household consumption,none,
+38123,电池,C,生活用品及服务,Household articles and services,goods,家用电池与车用电池未拆开
+38124,家用器具,C,生活用品及服务,Household articles and services,goods,
+38125,其他电气机械和器材,C,生活用品及服务,Household articles and services,goods,
+39126,计算机整机,C,文教娱乐,"Education, culture and recreation",goods,计算机按文化耐用品，不归入通信终端
+39127,计算机零部件、其他计算机及相关设备,C,文教娱乐,"Education, culture and recreation",goods,计算机零部件，随计算机
+39128,通信系统设备,C,无居民消费,No household consumption,none,
+39129,通信终端设备,C,交通通信,Transport and communication,goods,
+39130,广播电视设备和雷达及配套设备,C,文教娱乐,"Education, culture and recreation",goods,
+39131,非专业视听设备,C,文教娱乐,"Education, culture and recreation",goods,
+39132,电子器件,C,无居民消费,No household consumption,none,
+39133,电子元件及电子专用材料,C,无居民消费,No household consumption,none,
+39134,智能消费设备和其他电子设备,C,文教娱乐,"Education, culture and recreation",goods,智能消费设备；通信终端已单独归入交通通信
+40135,仪器仪表,C,其他用品及服务,Other goods and services,goods,
+41136,其他制造产品,C,其他用品及服务,Other goods and services,goods,
+42137,废弃资源和废旧材料回收加工品,C,无居民消费,No household consumption,none,
+43138,金属制品、机械和设备修理服务,C,无居民消费,No household consumption,none,
+44139,火力发电和热电联产,D,无居民消费,No household consumption,none,
+44140,其他电力生产,D,无居民消费,No household consumption,none,
+44141,电力供应,D,居住,Housing,service,
+44142,热力生产和供应,D,居住,Housing,service,
+45143,燃气生产和供应,D,居住,Housing,service,
+46144,水的生产和供应,D,居住,Housing,service,
+47145,住宅房屋建筑,E,无居民消费,No household consumption,none,
+47146,体育场馆和其他房屋建筑,E,无居民消费,No household consumption,none,
+48147,铁路、道路、隧道和桥梁工程建筑,E,无居民消费,No household consumption,none,
+48148,水利、水运工程和海洋工程建筑,E,无居民消费,No household consumption,none,
+48149,工矿工程建筑,E,无居民消费,No household consumption,none,
+48150,架线、管道工程建筑和节能环保工程,E,无居民消费,No household consumption,none,
+48151,电力工程,E,无居民消费,No household consumption,none,
+48152,其他土木工程建筑,E,无居民消费,No household consumption,none,
+49153,建筑安装,E,无居民消费,No household consumption,none,
+50154,建筑装饰和装修,E,无居民消费,No household consumption,none,
+50155,其他建筑服务,E,无居民消费,No household consumption,none,
+51156,批发,F,贸易加价,Trade margins,margin,生产者价格表中，居民对批发和零售的消费是货物加价，不是一个调查大类
+52157,零售,F,贸易加价,Trade margins,margin,生产者价格表中，居民对批发和零售的消费是货物加价，不是一个调查大类
+53158,铁路旅客运输,G,交通通信,Transport and communication,service,
+53159,铁路货物运输和运输辅助活动,G,交通通信,Transport and communication,service,居民支付的货物运输，含搬家；不是贸易加价
+54160,城市公共交通及公路客运,G,交通通信,Transport and communication,service,
+54161,道路货物运输和运输辅助活动,G,交通通信,Transport and communication,service,居民支付的货物运输，含搬家；不是贸易加价
+55162,水上旅客运输,G,交通通信,Transport and communication,service,
+55163,水上货物运输和运输辅助活动,G,交通通信,Transport and communication,service,居民支付的货物运输
+56164,航空旅客运输,G,交通通信,Transport and communication,service,
+56165,航空货物运输和运输辅助活动,G,交通通信,Transport and communication,service,居民支付的货物运输，金额小
+57166,管道运输,G,交通通信,Transport and communication,service,管道运输；燃气本身在居住类
+58167,多式联运和运输代理,G,交通通信,Transport and communication,service,
+59168,装卸搬运,G,交通通信,Transport and communication,service,
+59169,仓储,G,交通通信,Transport and communication,service,
+60170,邮政,G,交通通信,Transport and communication,service,
+61171,住宿,H,其他用品及服务,Other goods and services,service,旅馆住宿归入 080201，不是居住里的房租
+62172,餐饮,H,食品烟酒,"Food, tobacco and liquor",service,饮食服务，分类 0104
+63173,电信,I,交通通信,Transport and communication,service,
+63174,广播电视及卫星传输服务,I,文教娱乐,"Education, culture and recreation",service,
+64175,互联网和相关服务,I,交通通信,Transport and communication,service,
+65176,软件服务,I,文教娱乐,"Education, culture and recreation",service,
+65177,信息技术服务,I,交通通信,Transport and communication,service,
+66178,中央银行、货币银行和银行监管服务,J,银行服务（虚拟）,FISIM,fisim,虚拟银行服务不在住户调查的现金支出里，按净资产份额分摊
+66179,非货币银行和银行理财服务,J,其他用品及服务,Other goods and services,service,金融服务费归入 080205
+67180,资本市场服务,J,其他用品及服务,Other goods and services,service,金融服务费归入 080205
+68181,保险,J,其他用品及服务,Other goods and services,service,保险服务费归入 080204；调查中的其他消费远小于这项
+69182,其他金融服务,J,其他用品及服务,Other goods and services,service,金融服务费归入 080205
+70183,房地产,K,居住,Housing,service,投入产出表中的居民房地产消费主要是自有住房虚拟房租
+71184,租赁,L,交通通信,Transport and communication,service,租赁业中居民部分含交通工具租赁，与物品租赁未拆开
+72185,法律、咨询、广告和人力资源服务,L,其他用品及服务,Other goods and services,service,
+72186,其他商务服务,L,其他用品及服务,Other goods and services,service,
+73187,研究和试验发展,M,无居民消费,No household consumption,none,
+74188,气象、地震、海洋、环境和地质服务,M,无居民消费,No household consumption,none,
+74189,质检技术服务,M,其他用品及服务,Other goods and services,service,质检服务无直接对应的调查大类，金额小
+74190,工程技术与设计服务,M,无居民消费,No household consumption,none,
+74191,工业与专业设计及其他专业技术服务,M,无居民消费,No household consumption,none,
+75192,技术推广服务,M,无居民消费,No household consumption,none,
+75193,其他科技推广和应用服务,M,无居民消费,No household consumption,none,
+76194,水利管理,N,无居民消费,No household consumption,none,
+77195,生态保护与环境治理,N,其他用品及服务,Other goods and services,service,
+78196,公共设施管理,N,文教娱乐,"Education, culture and recreation",service,公园等公共设施，金额相对房地产很小
+79197,土地管理,N,其他用品及服务,Other goods and services,service,
+80198,居民服务,O,生活用品及服务,Household articles and services,service,家政归入本类，理发美容洗浴归入其他；同一产品无法拆开，整项放在本类
+81199,机动车、电子产品和日用品修理服务,O,交通通信,Transport and communication,service,机动车修理归入交通；日用品修理混在同一产品里
+82200,其他服务,O,其他用品及服务,Other goods and services,service,
+83201,教育,P,文教娱乐,"Education, culture and recreation",service,
+84202,卫生,Q,医疗保健,Health care,service,
+85203,社会工作,Q,医疗保健,Health care,service,
+86204,新闻和出版,R,文教娱乐,"Education, culture and recreation",service,
+87205,广播、电视、电影和影视录音制作,R,文教娱乐,"Education, culture and recreation",service,
+88206,文化艺术,R,文教娱乐,"Education, culture and recreation",service,
+89207,体育,R,文教娱乐,"Education, culture and recreation",service,
+90208,娱乐,R,文教娱乐,"Education, culture and recreation",service,
+91209,中国共产党机关、国家机构、人民政协和民主党派,S,其他用品及服务,Other goods and services,service,公共管理被居民购买的部分，无对应调查大类
+94210,社会保障,S,无居民消费,No household consumption,none,
+95211,群众团体、社会团体、其他成员组织及基层群众自治组织,S,其他用品及服务,Other goods and services,service,

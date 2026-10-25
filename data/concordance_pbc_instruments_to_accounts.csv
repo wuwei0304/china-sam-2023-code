@@ -1,0 +1,19 @@
+﻿account,pbc_item_zh,pbc_item_en
+F-CUR,通货,Currency
+F-DEP,存款,Deposits
+F-LOAN,贷款,Loans
+F-LOAN,未贴现的银行承兑汇票,Undiscounted bankers' acceptances
+F-INS,保险准备金,Insurance technical reserves
+F-BOND,债券,Bonds
+F-EQ,股票,Shares
+F-EQ,证券投资基金份额,Investment fund shares
+F-OTH,证券公司客户保证金,Customer margins at securities companies
+F-OTH,金融机构往来,Inter-financial-institution accounts
+F-OTH,存款准备金,Required reserves
+F-OTH,库存现金,Cash in vault
+F-OTH,中央银行贷款,Central bank loans
+F-OTH,其他（净）,Miscellaneous (net)
+F-OTH,直接投资,Direct investment
+F-OTH,其他对外债权债务,Other foreign claims and debts
+F-OTH,国际储备资产,International reserve assets
+F-OTH,国际收支误差与遗漏,Errors and omissions in the balance of payments

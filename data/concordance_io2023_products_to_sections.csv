@@ -1,0 +1,212 @@
+﻿product_code,product_name_zh,section,section_name_zh,section_name_en
+01001,谷物,A,农、林、牧、渔业,"Agriculture, forestry, animal husbandry and fishery"
+01002,其他农产品,A,农、林、牧、渔业,"Agriculture, forestry, animal husbandry and fishery"
+02003,林产品,A,农、林、牧、渔业,"Agriculture, forestry, animal husbandry and fishery"
+03004,家禽,A,农、林、牧、渔业,"Agriculture, forestry, animal husbandry and fishery"
+03005,牲畜和其他畜牧产品,A,农、林、牧、渔业,"Agriculture, forestry, animal husbandry and fishery"
+04006,水产养殖产品,A,农、林、牧、渔业,"Agriculture, forestry, animal husbandry and fishery"
+04007,水产捕捞产品,A,农、林、牧、渔业,"Agriculture, forestry, animal husbandry and fishery"
+05008,农、林、牧、渔服务产品,A,农、林、牧、渔业,"Agriculture, forestry, animal husbandry and fishery"
+06009,煤炭开采和洗选产品,B,采矿业,Mining
+07010,石油开采产品,B,采矿业,Mining
+07011,天然气开采产品,B,采矿业,Mining
+08012,黑色金属矿采选产品,B,采矿业,Mining
+09013,有色金属矿采选产品,B,采矿业,Mining
+10014,土砂石开采产品,B,采矿业,Mining
+10015,其他非金属矿采选产品,B,采矿业,Mining
+11016,开采辅助活动和其他采矿产品,B,采矿业,Mining
+13017,谷物磨制品,C,制造业,Manufacturing
+13018,饲料加工品,C,制造业,Manufacturing
+13019,植物油加工品,C,制造业,Manufacturing
+13020,糖及糖制品,C,制造业,Manufacturing
+13021,屠宰及肉类加工品,C,制造业,Manufacturing
+13022,水产加工品,C,制造业,Manufacturing
+13023,蔬菜、菌类、水果和坚果加工品,C,制造业,Manufacturing
+13024,其他农副食品加工品,C,制造业,Manufacturing
+14025,方便食品,C,制造业,Manufacturing
+14026,乳制品,C,制造业,Manufacturing
+14027,调味品、发酵制品,C,制造业,Manufacturing
+14028,其他食品,C,制造业,Manufacturing
+15029,酒精和酒,C,制造业,Manufacturing
+15030,饮料,C,制造业,Manufacturing
+15031,精制茶,C,制造业,Manufacturing
+16032,烟草制品,C,制造业,Manufacturing
+17033,棉纺织及印染精加工品,C,制造业,Manufacturing
+17034,毛纺织及染整精加工品,C,制造业,Manufacturing
+17035,麻、丝绢纺织及加工品,C,制造业,Manufacturing
+17036,化纤织造及印染精加工品,C,制造业,Manufacturing
+17037,针织或钩针编织及其制品,C,制造业,Manufacturing
+17038,家用纺织制成品,C,制造业,Manufacturing
+17039,产业用纺织制成品,C,制造业,Manufacturing
+18040,机织服装,C,制造业,Manufacturing
+18041,针织或钩针编织服装,C,制造业,Manufacturing
+18042,服饰,C,制造业,Manufacturing
+19043,皮革、毛皮、羽毛及其制品,C,制造业,Manufacturing
+19044,鞋,C,制造业,Manufacturing
+20045,木材加工品,C,制造业,Manufacturing
+20046,人造板制品,C,制造业,Manufacturing
+20047,木质制品和竹、藤、棕、草制品,C,制造业,Manufacturing
+21048,家具,C,制造业,Manufacturing
+22049,纸浆和造纸,C,制造业,Manufacturing
+22050,纸制品,C,制造业,Manufacturing
+23051,印刷和记录媒介复制品,C,制造业,Manufacturing
+24052,工艺美术品,C,制造业,Manufacturing
+24053,文教、体育和娱乐用品,C,制造业,Manufacturing
+25054,精炼石油和核燃料加工品,C,制造业,Manufacturing
+25055,煤炭加工品,C,制造业,Manufacturing
+26056,基础化学原料,C,制造业,Manufacturing
+26057,肥料,C,制造业,Manufacturing
+26058,农药,C,制造业,Manufacturing
+26059,涂料、油墨、颜料及类似产品,C,制造业,Manufacturing
+26060,合成材料,C,制造业,Manufacturing
+26061,专用化学产品和炸药、火工、焰火产品,C,制造业,Manufacturing
+26062,日用化学产品,C,制造业,Manufacturing
+27063,化学药品原料药,C,制造业,Manufacturing
+27064,化学药品制剂,C,制造业,Manufacturing
+27065,中药饮片及中成药,C,制造业,Manufacturing
+27066,其他医药制品,C,制造业,Manufacturing
+28067,化学纤维制品,C,制造业,Manufacturing
+29068,轮胎,C,制造业,Manufacturing
+29069,其他橡胶制品,C,制造业,Manufacturing
+29070,塑料薄膜,C,制造业,Manufacturing
+29071,日用塑料制品,C,制造业,Manufacturing
+29072,其他塑料制品,C,制造业,Manufacturing
+30073,水泥、石灰和石膏,C,制造业,Manufacturing
+30074,石膏、水泥制品及类似制品,C,制造业,Manufacturing
+30075,砖瓦、石材等建筑材料,C,制造业,Manufacturing
+30076,玻璃,C,制造业,Manufacturing
+30077,玻璃制品,C,制造业,Manufacturing
+30078,建筑、卫生陶瓷制品,C,制造业,Manufacturing
+30079,其他陶瓷制品,C,制造业,Manufacturing
+30080,耐火材料制品,C,制造业,Manufacturing
+30081,石墨及其他非金属矿物制品,C,制造业,Manufacturing
+31082,铁,C,制造业,Manufacturing
+31083,钢,C,制造业,Manufacturing
+31084,钢压延产品,C,制造业,Manufacturing
+31085,铁合金,C,制造业,Manufacturing
+32086,常用有色金属,C,制造业,Manufacturing
+32087,贵金属和稀有金属,C,制造业,Manufacturing
+32088,有色金属合金,C,制造业,Manufacturing
+32089,铜压延加工品,C,制造业,Manufacturing
+32090,铝压延加工品,C,制造业,Manufacturing
+32091,其他有色金属压延加工品,C,制造业,Manufacturing
+33092,结构性金属制品,C,制造业,Manufacturing
+33093,金属工具、金属丝绳及其制品,C,制造业,Manufacturing
+33094,集装箱及金属包装容器,C,制造业,Manufacturing
+33095,建筑、安全用金属制品,C,制造业,Manufacturing
+33096,金属制日用品,C,制造业,Manufacturing
+33097,金属处理、搪瓷制品、铸造及其他金属制品,C,制造业,Manufacturing
+34098,锅炉及原动设备,C,制造业,Manufacturing
+34099,金属加工机械,C,制造业,Manufacturing
+34100,物料搬运设备,C,制造业,Manufacturing
+34101,泵、阀门、压缩机及类似机械,C,制造业,Manufacturing
+34102,轴承、齿轮和传动部件,C,制造业,Manufacturing
+34103,烘炉、风机、包装等设备,C,制造业,Manufacturing
+34104,文化、办公用机械,C,制造业,Manufacturing
+34105,通用零部件,C,制造业,Manufacturing
+34106,其他通用设备,C,制造业,Manufacturing
+35107,采矿、冶金、建筑专用设备,C,制造业,Manufacturing
+35108,化工、木材、非金属加工专用设备,C,制造业,Manufacturing
+35109,电子和电工机械专用设备,C,制造业,Manufacturing
+35110,农、林、牧、渔专用机械,C,制造业,Manufacturing
+35111,医疗仪器设备及器械,C,制造业,Manufacturing
+35112,其他专用设备,C,制造业,Manufacturing
+36113,汽柴油车整车,C,制造业,Manufacturing
+36114,新能源车整车,C,制造业,Manufacturing
+36115,汽车用发动机、车身、挂车和其他汽车,C,制造业,Manufacturing
+36116,汽车零部件及配件,C,制造业,Manufacturing
+37117,铁路运输和城市轨道交通设备,C,制造业,Manufacturing
+37118,船舶及相关装置,C,制造业,Manufacturing
+37119,其他交通运输设备,C,制造业,Manufacturing
+38120,电机,C,制造业,Manufacturing
+38121,输配电及控制设备,C,制造业,Manufacturing
+38122,电线、电缆、光缆及电工器材,C,制造业,Manufacturing
+38123,电池,C,制造业,Manufacturing
+38124,家用器具,C,制造业,Manufacturing
+38125,其他电气机械和器材,C,制造业,Manufacturing
+39126,计算机整机,C,制造业,Manufacturing
+39127,计算机零部件、其他计算机及相关设备,C,制造业,Manufacturing
+39128,通信系统设备,C,制造业,Manufacturing
+39129,通信终端设备,C,制造业,Manufacturing
+39130,广播电视设备和雷达及配套设备,C,制造业,Manufacturing
+39131,非专业视听设备,C,制造业,Manufacturing
+39132,电子器件,C,制造业,Manufacturing
+39133,电子元件及电子专用材料,C,制造业,Manufacturing
+39134,智能消费设备和其他电子设备,C,制造业,Manufacturing
+40135,仪器仪表,C,制造业,Manufacturing
+41136,其他制造产品,C,制造业,Manufacturing
+42137,废弃资源和废旧材料回收加工品,C,制造业,Manufacturing
+43138,金属制品、机械和设备修理服务,C,制造业,Manufacturing
+44139,火力发电和热电联产,D,电力、热力、燃气及水生产和供应业,"Electricity, heat, gas and water supply"
+44140,其他电力生产,D,电力、热力、燃气及水生产和供应业,"Electricity, heat, gas and water supply"
+44141,电力供应,D,电力、热力、燃气及水生产和供应业,"Electricity, heat, gas and water supply"
+44142,热力生产和供应,D,电力、热力、燃气及水生产和供应业,"Electricity, heat, gas and water supply"
+45143,燃气生产和供应,D,电力、热力、燃气及水生产和供应业,"Electricity, heat, gas and water supply"
+46144,水的生产和供应,D,电力、热力、燃气及水生产和供应业,"Electricity, heat, gas and water supply"
+47145,住宅房屋建筑,E,建筑业,Construction
+47146,体育场馆和其他房屋建筑,E,建筑业,Construction
+48147,铁路、道路、隧道和桥梁工程建筑,E,建筑业,Construction
+48148,水利、水运工程和海洋工程建筑,E,建筑业,Construction
+48149,工矿工程建筑,E,建筑业,Construction
+48150,架线、管道工程建筑和节能环保工程,E,建筑业,Construction
+48151,电力工程,E,建筑业,Construction
+48152,其他土木工程建筑,E,建筑业,Construction
+49153,建筑安装,E,建筑业,Construction
+50154,建筑装饰和装修,E,建筑业,Construction
+50155,其他建筑服务,E,建筑业,Construction
+51156,批发,F,批发和零售业,Wholesale and retail trade
+52157,零售,F,批发和零售业,Wholesale and retail trade
+53158,铁路旅客运输,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+53159,铁路货物运输和运输辅助活动,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+54160,城市公共交通及公路客运,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+54161,道路货物运输和运输辅助活动,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+55162,水上旅客运输,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+55163,水上货物运输和运输辅助活动,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+56164,航空旅客运输,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+56165,航空货物运输和运输辅助活动,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+57166,管道运输,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+58167,多式联运和运输代理,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+59168,装卸搬运,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+59169,仓储,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+60170,邮政,G,交通运输、仓储和邮政业,"Transport, storage and postal services"
+61171,住宿,H,住宿和餐饮业,Accommodation and catering
+62172,餐饮,H,住宿和餐饮业,Accommodation and catering
+63173,电信,I,信息传输、软件和信息技术服务业,"Information transmission, software and IT services"
+63174,广播电视及卫星传输服务,I,信息传输、软件和信息技术服务业,"Information transmission, software and IT services"
+64175,互联网和相关服务,I,信息传输、软件和信息技术服务业,"Information transmission, software and IT services"
+65176,软件服务,I,信息传输、软件和信息技术服务业,"Information transmission, software and IT services"
+65177,信息技术服务,I,信息传输、软件和信息技术服务业,"Information transmission, software and IT services"
+66178,中央银行、货币银行和银行监管服务,J,金融业,Finance
+66179,非货币银行和银行理财服务,J,金融业,Finance
+67180,资本市场服务,J,金融业,Finance
+68181,保险,J,金融业,Finance
+69182,其他金融服务,J,金融业,Finance
+70183,房地产,K,房地产业,Real estate
+71184,租赁,L,租赁和商务服务业,Leasing and business services
+72185,法律、咨询、广告和人力资源服务,L,租赁和商务服务业,Leasing and business services
+72186,其他商务服务,L,租赁和商务服务业,Leasing and business services
+73187,研究和试验发展,M,科学研究和技术服务业,Scientific research and technical services
+74188,气象、地震、海洋、环境和地质服务,M,科学研究和技术服务业,Scientific research and technical services
+74189,质检技术服务,M,科学研究和技术服务业,Scientific research and technical services
+74190,工程技术与设计服务,M,科学研究和技术服务业,Scientific research and technical services
+74191,工业与专业设计及其他专业技术服务,M,科学研究和技术服务业,Scientific research and technical services
+75192,技术推广服务,M,科学研究和技术服务业,Scientific research and technical services
+75193,其他科技推广和应用服务,M,科学研究和技术服务业,Scientific research and technical services
+76194,水利管理,N,水利、环境和公共设施管理业,"Water conservancy, environment and public facilities"
+77195,生态保护与环境治理,N,水利、环境和公共设施管理业,"Water conservancy, environment and public facilities"
+78196,公共设施管理,N,水利、环境和公共设施管理业,"Water conservancy, environment and public facilities"
+79197,土地管理,N,水利、环境和公共设施管理业,"Water conservancy, environment and public facilities"
+80198,居民服务,O,居民服务、修理和其他服务业,"Resident services, repair and other services"
+81199,机动车、电子产品和日用品修理服务,O,居民服务、修理和其他服务业,"Resident services, repair and other services"
+82200,其他服务,O,居民服务、修理和其他服务业,"Resident services, repair and other services"
+83201,教育,P,教育,Education
+84202,卫生,Q,卫生和社会工作,Health and social work
+85203,社会工作,Q,卫生和社会工作,Health and social work
+86204,新闻和出版,R,文化、体育和娱乐业,"Culture, sports and entertainment"
+87205,广播、电视、电影和影视录音制作,R,文化、体育和娱乐业,"Culture, sports and entertainment"
+88206,文化艺术,R,文化、体育和娱乐业,"Culture, sports and entertainment"
+89207,体育,R,文化、体育和娱乐业,"Culture, sports and entertainment"
+90208,娱乐,R,文化、体育和娱乐业,"Culture, sports and entertainment"
+91209,中国共产党机关、国家机构、人民政协和民主党派,S,公共管理、社会保障和社会组织,"Public administration, social security and social organizations"
+94210,社会保障,S,公共管理、社会保障和社会组织,"Public administration, social security and social organizations"
+95211,群众团体、社会团体、其他成员组织及基层群众自治组织,S,公共管理、社会保障和社会组织,"Public administration, social security and social organizations"

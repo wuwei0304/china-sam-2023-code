@@ -1,0 +1,26 @@
+{
+  "upload_type": "software",
+  "title": "Code for a 2023 social accounting matrix for China with income-decile households and financial accounts",
+  "description": "Construction, validation, sensitivity and figure-generation code for the 2023 China SAM, with structural concordances and input acquisition instructions. No CFPS household records, original publisher workbooks, internal decile tables or generated SAM/data outputs are included. The final dataset deposit and its access terms remain to be confirmed separately.",
+  "creators": [
+    {
+      "name": "Wu, Wei",
+      "affiliation": "Harbin Institute of Technology, Shenzhen"
+    },
+    {
+      "name": "Jiang, Jingjing",
+      "affiliation": "Harbin Institute of Technology, Shenzhen"
+    }
+  ],
+  "keywords": [
+    "social accounting matrix",
+    "China",
+    "input-output",
+    "flow of funds",
+    "household income groups"
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Software-only metadata for a future archived code release. No DOI or public release is claimed. Original inputs and CFPS-derived outputs are governed separately by provider terms and approved deposit arrangements."
+}

@@ -1,0 +1,31 @@
+# Track only the approved code, structural concordances and documentation below.
+# Raw inputs, survey summaries and generated outputs stay local.
+*
+!.gitignore
+!.gitattributes
+!.zenodo.json
+!README.md
+!REPRODUCING.md
+!DATA_ACCESS.md
+!LICENSE
+!CITATION.cff
+!requirements.txt
+!paths.py
+!io2023.py
+!build_cfps_deciles.py
+!build_consumption_bridge.py
+!build_sam4.py
+!validate_sam4.py
+!sam_multipliers.py
+!sensitivity.py
+!make_figures.py
+!run_all.py
+!data/
+data/*
+!data/concordance_io2023_products_to_sections.csv
+!data/concordance_io2023_products_to_consumption_categories.csv
+!data/concordance_pbc_instruments_to_accounts.csv
+!data/variable_roles.md
+!inputs/
+inputs/*
+!inputs/README.md

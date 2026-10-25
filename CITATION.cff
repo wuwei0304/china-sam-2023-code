@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+type: software
+message: "Please cite this code repository and its archived release when available."
+title: "Code for a 2023 social accounting matrix for China with income-decile households and financial accounts"
+license: MIT
+authors:
+  - family-names: Wu
+    given-names: Wei
+    affiliation: "Harbin Institute of Technology, Shenzhen, China"
+  - family-names: Jiang
+    given-names: Jingjing
+    affiliation: "Harbin Institute of Technology, Shenzhen, China"
+keywords:
+  - social accounting matrix
+  - China
+  - input-output
+  - flow of funds
+  - household income groups

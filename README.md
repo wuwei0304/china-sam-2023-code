@@ -5,8 +5,11 @@ income groups and financial accounts. The code combines national input-output, f
 financial accounts, using CFPS 2022 aggregate shares to allocate household totals.
 
 This repository contains software, structural concordances and documentation. The complete final
-SAM and CFPS-derived group outputs are being prepared separately for a CFPS-approved deposit
-arrangement. No data repository approval, DOI or access arrangement is asserted here.
+SAM and processed group-level outputs are publicly available as Dataset version 1.0.0 under CC BY 4.0:
+[10.5281/zenodo.23654134](https://doi.org/10.5281/zenodo.23654134), mirrored in
+[china-sam-2023-data](https://github.com/wuwei0304/china-sam-2023-data).
+Both repositories provide the same 40-file data ZIP without login or individual approval.
+The Dataset DOI is separate from the software DOI below.
 
 ## Run locally
 
